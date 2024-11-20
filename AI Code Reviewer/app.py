@@ -30,8 +30,7 @@ def get_response(code_input):
 st.set_page_config(page_title="AI Code Reviewer", page_icon="🤖", layout="wide")
 
 # App header
-t.markdown("<h1 style='text-align: left;'>🤖 AI Code Reviewer</h1>", unsafe_allow_html=True)
-st.markdown("<h6 style='text-align: left;'>Analyze and optimize your code with AI</h6>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: left;'>🤖 AI Code Reviewer</h1>", unsafe_allow_html=True)
 st.markdown("---")
 
 # Intro section
