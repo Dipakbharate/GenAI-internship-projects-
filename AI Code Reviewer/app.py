@@ -39,7 +39,7 @@ st.write("### Submit your Python code to identify issues, apply fixes, and uncov
 st.markdown("Enter your Python code below, and let the AI provide a detailed analysis and optimization!")
 
 # Code input section
-st.write("#### 📝 Code Input")
+st.write("#### 👨‍💻Input:")
 code_input = st.text_area("Enter your Python code here:", placeholder="Enter your code")
 
 # Review button and output
