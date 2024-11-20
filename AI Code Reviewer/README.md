@@ -10,10 +10,8 @@ How It Works
 
 Submit Code: Paste your Python code into the input field.
 Analyze: Click the "Review Code" button to submit your code for analysis.
-Get Results: Receive a detailed code review that includes:
-Identified issues (bugs, errors, inefficiencies)
-Suggested fixes with explanations
-General guidance and best practices
+Get Results: Receive a detailed code review that includes: Identified issues (bugs, errors, inefficiencies) Suggested fixes with explanations General guidance and best practices
+
 Requirements
 Python: Version 3.8 or higher
 Streamlit: Version 1.25 or higher
