@@ -1,7 +1,10 @@
 streamlit
-google-generativeai
-langchain
 pillow
-opencv-python-headless
 pytesseract
+pyttsx3
+google-generativeai
+ultralytics
+opencv-python-headless
+torch
+torchvision
 numpy
