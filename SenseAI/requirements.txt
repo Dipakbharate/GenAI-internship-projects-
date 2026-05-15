@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+langchain
+pillow
+opencv-python-headless
+pytesseract
+numpy
