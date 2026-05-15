@@ -8,8 +8,9 @@ import io
 import threading
 
 # Set Google Generative AI API Key
-f = open("keys/geminikey.txt")
-key = f.read()
+import os
+
+key = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=key)
 
 # Initialize Text-to-Speech (using pyttsx3)
